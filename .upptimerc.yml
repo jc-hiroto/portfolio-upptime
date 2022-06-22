@@ -3,14 +3,14 @@ owner: jc-hiroto # Your GitHub organization or username, where this repository l
 repo: portfolio-upptime # The name of this repository
 
 sites:
-  - name: Portfolio Website
+  - name: jchiroto.dev
     url: https://jchiroto.dev
     
 status-website:
   cname: status.jchiroto.dev
   logoUrl: https://raw.githubusercontent.com/jc-hiroto/me/master/public/apple-touch-icon.png
   name: James (jc-hiroto)
-  introTitle: This site monitors some interesting websites created by me!
+  introTitle:
   introMessage: 
   navbar:
     - title: Status
