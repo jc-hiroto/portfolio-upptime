@@ -4,7 +4,7 @@
     "url": "https://jchiroto.dev",
     "icon": "https://favicons.githubusercontent.com/jchiroto.dev",
     "slug": "jchiroto-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 261,
     "timeMonth": 260,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-22": 0
+    }
   }
 ]
